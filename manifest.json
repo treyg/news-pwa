@@ -1,6 +1,6 @@
 {
-  "name": "News",
-  "short_name": "News",
+  "name": "Sources",
+  "short_name": "Sources",
   "theme_color": "#252525",
   "background_color": "#ffffff",
   "display": "standalone",
